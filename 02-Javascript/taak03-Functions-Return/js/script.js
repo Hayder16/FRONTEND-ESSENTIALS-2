@@ -1,5 +1,5 @@
 function geefRandomGetalTerug() {
-    return (Math.floor(Math.random() * 10)) + 1;
+    return (Math.floor(Math.random() * 11)) + 1;
 }
 geefRandomGetalTerug();
 
