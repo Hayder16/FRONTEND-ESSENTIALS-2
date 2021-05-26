@@ -16,3 +16,12 @@ document.querySelector(".film4-ranking").innerHTML = 4;
 document.querySelector(".film4-naam").innerHTML = topFilms[3];
 document.querySelector(".film5-ranking").innerHTML = 5;
 document.querySelector(".film5-naam").innerHTML = topFilms[4];
+
+function moveUp() {
+    if('fiml1-naam' == moveUp(1)) {
+        
+    } else if('film1-naam' == moveDown(1)) {
+        
+    }
+
+}
