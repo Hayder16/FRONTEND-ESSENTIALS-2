@@ -18,18 +18,6 @@ document.querySelector(".film5-ranking").innerHTML = 5;
 document.querySelector(".film5-naam").innerHTML = topFilms[4];
 
 function moveup() {
-    if('film1-naam' > moveup(1)) {
-        null;
-    } else if('film1-naam' < moveup(1)) {
-        
-    }
-
+    
 }
 
-function movedown() {
-
-}
-
-function resetList() {
-
-}

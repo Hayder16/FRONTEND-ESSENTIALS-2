@@ -1,5 +1,5 @@
-var spelersScore = [];
-var rondePunten = [];
+var spelersScore = [1,2,3,4,5];
+var rondePunten = [1,2,3,4,5];
 
 //Bepaalt het aantal spelers, tussen 1 en 10.
 function getRandomAantalSpelers(){
